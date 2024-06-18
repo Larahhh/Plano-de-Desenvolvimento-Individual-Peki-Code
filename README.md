@@ -49,13 +49,13 @@ Olá, seja bem-vindo ao meu repositório do meu Plano de Desenvolvimento Individ
 - [x] Flutter Curso 2022 #14 - (Columns e Rows) eixos
 - [x] Flutter Curso 2022 #15 - (Columns e Rows) prática
 - [x] Flutter Curso 2022 #16 - Scroll
-- [*] Flutter Curso 2022 #17 - ListView
-- [ ] Flutter Curso 2022 #18 - Exemplo prático de uso
-- [ ] Flutter Curso 2022 #19 - Stack
-- [ ] Flutter Curso 2022 #20 - Usando o Image.network
-- [ ] Flutter Curso 2022 #21 - Acessando imagens locais
-- [ ] Flutter Curso 2022 #22 - Stack como máscara
-- [ ] Flutter Curso 2022 #23 - Stack com Rows e Columns
+- [x] Flutter Curso 2022 #17 - ListView
+- [x] Flutter Curso 2022 #18 - Exemplo prático de uso
+- [X] Flutter Curso 2022 #19 - Stack
+- [X] Flutter Curso 2022 #20 - Usando o Image.network
+- [X] Flutter Curso 2022 #21 - Acessando imagens locais
+- [X] Flutter Curso 2022 #22 - Stack como máscara
+- [X] Flutter Curso 2022 #23 - Stack com Rows e Columns
 
 
 ## Responsáveis pelo PDI na Peki Code
